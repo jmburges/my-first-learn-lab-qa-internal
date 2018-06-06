@@ -1,4 +1,4 @@
-require 'spec_helper'
+lerequire 'spec_helper'
 
 describe 'Your First Learn Lab' do
   it 'contains a file called "my-new-file.txt"' do
